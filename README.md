@@ -19,7 +19,8 @@
 
 | Initial Greeting | Basic Conversation | Smart Wikipedia Lookup |
 | :---: | :---: | :---: |
-| ![Initial UI]<img width="705" height="912" alt="Screenshot 2026-11-24 090947" src="https://github.com/user-attachments/assets/91663d75-92df-4605-a004-7ea5ca166cc3" /> | ![Basic Chat](Screenshot%202026-11-24%20091022.png) | ![Smart Reply]<img width="660" height="920" alt="Screenshot 2026-11-24 092120" src="https://github.com/user-attachments/assets/b976eba4-3377-40d6-85c9-f529cc86793a" /> |
+| ![Initial UI]<img width="705" height="912" alt="Screenshot 2026-11-24 090947" src="https://github.com/user-attachments/assets/91663d75-92df-4605-a004-7ea5ca166cc3" /> | ![Basic Chat]<img width="705" height="912" alt="Screenshot 2026-11-24 090947" src="https://github.com/user-attachments/assets/91663d75-92df-4605-a004-7ea5ca166cc3" />
+ | ![Smart Reply]<img width="660" height="920" alt="Screenshot 2026-11-24 092120" src="https://github.com/user-attachments/assets/b976eba4-3377-40d6-85c9-f529cc86793a" /> |
 
 ---
 
