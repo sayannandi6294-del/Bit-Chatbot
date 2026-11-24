@@ -19,7 +19,7 @@
 
 | Initial Greeting | Basic Conversation | Smart Wikipedia Lookup |
 | :---: | :---: | :---: |
-| ![Initial UI](Screenshot%202026-11-24%20090947.png) | ![Basic Chat](Screenshot%202026-11-24%20091022.png) | ![Smart Reply](Screenshot%202026-11-24%20092120.png) |
+| ![Initial UI]<img width="705" height="912" alt="Screenshot 2026-11-24 090947" src="https://github.com/user-attachments/assets/91663d75-92df-4605-a004-7ea5ca166cc3" /> | ![Basic Chat](Screenshot%202026-11-24%20091022.png) | ![Smart Reply](Screenshot%202026-11-24%20092120.png) |
 
 ---
 
