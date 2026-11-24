@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bit - Smart Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <div class="robot">
+                <div class="antenna"></div>
+                <div class="head">
+                    <div class="face">
+                        <span class="eye"></span>
+                        <span class="eye"></span>
+                        <span class="mouth"></span>
+                    </div>
+                </div>
+                <div class="body">
+                    <span></span>
+                </div>
+                <div class="shadow"></div>
+            </div>
+
+            <h1>Bit</h1>
+            <p class="status">● Online</p>
+        </header>
+
+        <div class="chat-box" id="chatBox">
+            <div class="message bot">
+                Hello! I'm Bit. How can I help you?
+            </div>
+        </div>
+
+        <div class="suggestions">
+            <button onclick="quickSend('hello')">hello</button>
+            <button onclick="quickSend('how are you')">how are you</button>
+            <button onclick="quickSend('bye')">bye</button>
+        </div>
+
+        <div class="input-area">
+            <input
+                type="text"
+                id="userInput"
+                placeholder="Type a message..."
+                autocomplete="off"
+            >
+            <button class="send-btn" onclick="sendMessage()">↑</button>
+        </div>
+
+        <button class="clear-btn" onclick="clearChat()">Clear Chat</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
